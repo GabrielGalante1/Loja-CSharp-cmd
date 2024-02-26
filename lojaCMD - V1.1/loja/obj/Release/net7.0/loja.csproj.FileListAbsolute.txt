@@ -1,0 +1,15 @@
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\bin\Release\net7.0\loja.exe
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\bin\Release\net7.0\loja.deps.json
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\bin\Release\net7.0\loja.runtimeconfig.json
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\bin\Release\net7.0\loja.dll
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\bin\Release\net7.0\loja.pdb
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\obj\Release\net7.0\loja.csproj.AssemblyReference.cache
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\obj\Release\net7.0\loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\obj\Release\net7.0\loja.AssemblyInfoInputs.cache
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\obj\Release\net7.0\loja.AssemblyInfo.cs
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\obj\Release\net7.0\loja.csproj.CoreCompileInputs.cache
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\obj\Release\net7.0\loja.dll
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\obj\Release\net7.0\refint\loja.dll
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\obj\Release\net7.0\loja.pdb
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\obj\Release\net7.0\loja.genruntimeconfig.cache
+C:\Users\bielm\OneDrive\C#\projetos\Loja(todas as versoes)\CMD versionm\lojaCMD - V1.1\loja\obj\Release\net7.0\ref\loja.dll

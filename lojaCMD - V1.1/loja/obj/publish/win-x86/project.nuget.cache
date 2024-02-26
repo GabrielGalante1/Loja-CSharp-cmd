@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZASU7qs19hoIDela8yjLhGsFyk/K7XV+RwdD0ZHvTBAB2oXIr6cVwqduKmx2XC9tXZIX9VyV1ku6uH9TyZxZSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bielm\\OneDrive\\C#\\projetos\\Loja(todas as versoes)\\CMD versionm\\lojaCMD - V1.1\\loja\\loja.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bielm\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.7\\microsoft.netcore.app.runtime.win-x86.7.0.7.nupkg.sha512",
+    "C:\\Users\\bielm\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.7.nupkg.sha512",
+    "C:\\Users\\bielm\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.7\\microsoft.aspnetcore.app.runtime.win-x86.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

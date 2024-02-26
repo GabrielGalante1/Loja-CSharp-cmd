@@ -1,0 +1,44 @@
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\bin\Debug\net7.0\loja.exe
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\bin\Debug\net7.0\loja.deps.json
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\bin\Debug\net7.0\loja.runtimeconfig.json
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\bin\Debug\net7.0\loja.dll
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\bin\Debug\net7.0\loja.pdb
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\obj\Debug\net7.0\loja.csproj.AssemblyReference.cache
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\obj\Debug\net7.0\loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\obj\Debug\net7.0\loja.AssemblyInfoInputs.cache
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\obj\Debug\net7.0\loja.AssemblyInfo.cs
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\obj\Debug\net7.0\loja.csproj.CoreCompileInputs.cache
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\obj\Debug\net7.0\loja.dll
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\obj\Debug\net7.0\refint\loja.dll
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\obj\Debug\net7.0\loja.pdb
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\obj\Debug\net7.0\loja.genruntimeconfig.cache
+C:\Users\bielm\Desktop\projetos\lojaCMD\loja\obj\Debug\net7.0\ref\loja.dll
+C:\Users\bielm\Desktop\projetos\Loja(todas as versoes)\lojaCMD\loja\bin\Debug\net7.0\loja.exe
+C:\Users\bielm\Desktop\projetos\Loja(todas as versoes)\lojaCMD\loja\bin\Debug\net7.0\loja.deps.json
+C:\Users\bielm\Desktop\projetos\Loja(todas as versoes)\lojaCMD\loja\bin\Debug\net7.0\loja.runtimeconfig.json
+C:\Users\bielm\Desktop\projetos\Loja(todas as versoes)\lojaCMD\loja\bin\Debug\net7.0\loja.dll
+C:\Users\bielm\Desktop\projetos\Loja(todas as versoes)\lojaCMD\loja\bin\Debug\net7.0\loja.pdb
+C:\Users\bielm\Desktop\projetos\Loja(todas as versoes)\lojaCMD\loja\obj\Debug\net7.0\loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielm\Desktop\projetos\Loja(todas as versoes)\lojaCMD\loja\obj\Debug\net7.0\loja.AssemblyInfoInputs.cache
+C:\Users\bielm\Desktop\projetos\Loja(todas as versoes)\lojaCMD\loja\obj\Debug\net7.0\loja.AssemblyInfo.cs
+C:\Users\bielm\Desktop\projetos\Loja(todas as versoes)\lojaCMD\loja\obj\Debug\net7.0\loja.csproj.CoreCompileInputs.cache
+C:\Users\bielm\Desktop\projetos\Loja(todas as versoes)\lojaCMD\loja\obj\Debug\net7.0\loja.dll
+C:\Users\bielm\Desktop\projetos\Loja(todas as versoes)\lojaCMD\loja\obj\Debug\net7.0\refint\loja.dll
+C:\Users\bielm\Desktop\projetos\Loja(todas as versoes)\lojaCMD\loja\obj\Debug\net7.0\loja.pdb
+C:\Users\bielm\Desktop\projetos\Loja(todas as versoes)\lojaCMD\loja\obj\Debug\net7.0\loja.genruntimeconfig.cache
+C:\Users\bielm\Desktop\projetos\Loja(todas as versoes)\lojaCMD\loja\obj\Debug\net7.0\ref\loja.dll
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\bin\Debug\net7.0\loja.exe
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\bin\Debug\net7.0\loja.deps.json
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\bin\Debug\net7.0\loja.runtimeconfig.json
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\bin\Debug\net7.0\loja.dll
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\bin\Debug\net7.0\loja.pdb
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\obj\Debug\net7.0\loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\obj\Debug\net7.0\loja.AssemblyInfoInputs.cache
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\obj\Debug\net7.0\loja.AssemblyInfo.cs
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\obj\Debug\net7.0\loja.csproj.CoreCompileInputs.cache
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\obj\Debug\net7.0\loja.dll
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\obj\Debug\net7.0\refint\loja.dll
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\obj\Debug\net7.0\loja.pdb
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\obj\Debug\net7.0\loja.genruntimeconfig.cache
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\obj\Debug\net7.0\ref\loja.dll
+C:\Users\bielm\Desktop\lojaCMD\lojaCMD\loja\obj\Debug\net7.0\loja.csproj.AssemblyReference.cache
