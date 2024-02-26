@@ -1,0 +1,6 @@
+principal:
+-Melhoria no código da Loja e Produtos. Pronto para que o usuario possa adicionar um produto sem a necessidade de acessar o código.
+-Finalização da aba "Ganhar Dinheiro", porém necessita de refinamento.
+
+Correções:
+-Adicionava e retirava saldo, porém não mostrava em tempo real.
