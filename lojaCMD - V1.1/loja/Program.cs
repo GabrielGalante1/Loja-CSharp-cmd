@@ -16,7 +16,7 @@ class ganharDinheiro
 {
     int dinheiro = banco.dinheiro;
     erro erro1 = new erro();
-    List<string> comecarVar = new List<string> {"Começar", "começar", "Comecar", "comecar"};
+    List<string> comecarVar = new List<string> {"Começar", "começar", "Comecar", "comecar"}; //Lista de possíveis palavras que o usuario pode digitar.
     public void GanharDinheiro()
     {
         Console.WriteLine("Cada enter clicado equivale a 5 pontos. \nPara começar, apenas escreva COMECAR.");
