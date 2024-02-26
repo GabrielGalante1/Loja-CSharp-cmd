@@ -141,7 +141,7 @@ class loja
             }
         }
     }
-    public void Compra(string produtoNome, int preco)
+    public void Compra(string produtoNome, int preco) //Método de compra.
     {
         if (banco.dinheiro >= preco)
         {
@@ -161,7 +161,7 @@ class loja
 class banco
 {
     public static int dinheiro = 500;
-    public void Banco()
+    public void Banco() //Método onde o usuario pode verificar seu saldo.
     {
         Console.WriteLine($"\nSaldo: {banco.dinheiro}\n");
         Thread.Sleep(500);
