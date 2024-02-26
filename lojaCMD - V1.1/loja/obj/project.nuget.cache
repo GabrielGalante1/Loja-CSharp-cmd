@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dhdEzwQKDrwINArTdGwVsCQgdiyc988HXbqDzYFpXGofT2ya8nmU4Kap6SOO4J0+m7Il9/Kt8SZzaU5EBfXPoA==",
+  "dgSpecHash": "HnCnK8o1dKY1aBuNkUSgxZel8yKh3buYkNdJKj/lObVDwYjkWf9YC5HKCH1K09gEjaV4rGcAKct3p9JqYhsROg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bielm\\OneDrive\\C#\\projetos\\Loja(todas as versoes)\\CMD versionm\\lojaCMD - V1.1\\loja\\loja.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\bielm\\OneDrive\\Documentos\\GitHub\\Loja-C--CMD\\lojaCMD - V1.1\\loja\\loja.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bielm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\bielm\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\bielm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\bielm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
