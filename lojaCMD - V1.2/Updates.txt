@@ -1,0 +1,6 @@
+a única alteração foi a refatoração do código, adaptando aos aprendizados que tive em 2024. o código ficou mais flexível à manutenções futuras e flexível para a adição\remoção de recursos
+
+
+Futuras refatorações de código?
+
+Sim, pretendo aplicar o conceito de MVC, Que é a divisão da aplicação em 3 camadas. Porém esta refatoração vai demorar um tempo.
