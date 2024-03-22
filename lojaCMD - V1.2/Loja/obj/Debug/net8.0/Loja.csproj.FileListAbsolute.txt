@@ -1,0 +1,28 @@
+C:\Users\bielm\OneDrive\Área de Trabalho\lojaCMD - V1.2\Loja\Loja\bin\Debug\net8.0\Loja.exe
+C:\Users\bielm\OneDrive\Área de Trabalho\lojaCMD - V1.2\Loja\Loja\bin\Debug\net8.0\Loja.deps.json
+C:\Users\bielm\OneDrive\Área de Trabalho\lojaCMD - V1.2\Loja\Loja\bin\Debug\net8.0\Loja.runtimeconfig.json
+C:\Users\bielm\OneDrive\Área de Trabalho\lojaCMD - V1.2\Loja\Loja\bin\Debug\net8.0\Loja.dll
+C:\Users\bielm\OneDrive\Área de Trabalho\lojaCMD - V1.2\Loja\Loja\bin\Debug\net8.0\Loja.pdb
+C:\Users\bielm\OneDrive\Área de Trabalho\lojaCMD - V1.2\Loja\Loja\obj\Debug\net8.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielm\OneDrive\Área de Trabalho\lojaCMD - V1.2\Loja\Loja\obj\Debug\net8.0\Loja.AssemblyInfoInputs.cache
+C:\Users\bielm\OneDrive\Área de Trabalho\lojaCMD - V1.2\Loja\Loja\obj\Debug\net8.0\Loja.AssemblyInfo.cs
+C:\Users\bielm\OneDrive\Área de Trabalho\lojaCMD - V1.2\Loja\Loja\obj\Debug\net8.0\Loja.csproj.CoreCompileInputs.cache
+C:\Users\bielm\OneDrive\Área de Trabalho\lojaCMD - V1.2\Loja\Loja\obj\Debug\net8.0\Loja.dll
+C:\Users\bielm\OneDrive\Área de Trabalho\lojaCMD - V1.2\Loja\Loja\obj\Debug\net8.0\refint\Loja.dll
+C:\Users\bielm\OneDrive\Área de Trabalho\lojaCMD - V1.2\Loja\Loja\obj\Debug\net8.0\Loja.pdb
+C:\Users\bielm\OneDrive\Área de Trabalho\lojaCMD - V1.2\Loja\Loja\obj\Debug\net8.0\Loja.genruntimeconfig.cache
+C:\Users\bielm\OneDrive\Área de Trabalho\lojaCMD - V1.2\Loja\Loja\obj\Debug\net8.0\ref\Loja.dll
+C:\Users\bielm\OneDrive\Área de Trabalho\Loja\bin\Debug\net8.0\Loja.exe
+C:\Users\bielm\OneDrive\Área de Trabalho\Loja\bin\Debug\net8.0\Loja.deps.json
+C:\Users\bielm\OneDrive\Área de Trabalho\Loja\bin\Debug\net8.0\Loja.runtimeconfig.json
+C:\Users\bielm\OneDrive\Área de Trabalho\Loja\bin\Debug\net8.0\Loja.dll
+C:\Users\bielm\OneDrive\Área de Trabalho\Loja\bin\Debug\net8.0\Loja.pdb
+C:\Users\bielm\OneDrive\Área de Trabalho\Loja\obj\Debug\net8.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielm\OneDrive\Área de Trabalho\Loja\obj\Debug\net8.0\Loja.AssemblyInfoInputs.cache
+C:\Users\bielm\OneDrive\Área de Trabalho\Loja\obj\Debug\net8.0\Loja.AssemblyInfo.cs
+C:\Users\bielm\OneDrive\Área de Trabalho\Loja\obj\Debug\net8.0\Loja.csproj.CoreCompileInputs.cache
+C:\Users\bielm\OneDrive\Área de Trabalho\Loja\obj\Debug\net8.0\Loja.dll
+C:\Users\bielm\OneDrive\Área de Trabalho\Loja\obj\Debug\net8.0\refint\Loja.dll
+C:\Users\bielm\OneDrive\Área de Trabalho\Loja\obj\Debug\net8.0\Loja.pdb
+C:\Users\bielm\OneDrive\Área de Trabalho\Loja\obj\Debug\net8.0\Loja.genruntimeconfig.cache
+C:\Users\bielm\OneDrive\Área de Trabalho\Loja\obj\Debug\net8.0\ref\Loja.dll
